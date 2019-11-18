@@ -1,0 +1,15 @@
+.mtxt
+{
+    position: absolute;
+    z-index: 99;
+    top: 60px;
+    width: 30%;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0);
+    caret-color: rgba(0, 0, 0, 1);
+}
+
+table
+{
+    width: 100%;
+}
